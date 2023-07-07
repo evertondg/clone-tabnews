@@ -1,3 +1,8 @@
 {
-  "recommendations": ["editorconfig.editorconfig", "esbenp.prettier-vscode"]
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "esbenp.prettier-vscode",
+    "vivaxy.vscode-conventional-commits",
+    "mhutchie.git-graph"
+  ]
 }
